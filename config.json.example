@@ -1,0 +1,5 @@
+{
+    "prefix": "YOUR-BOT-PREFIX",
+    "token": "YOUR-TOKEN-HERE",
+    "owners": [ID-OF-THE-OWNERS]
+}
